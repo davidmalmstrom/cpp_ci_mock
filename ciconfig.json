@@ -1,5 +1,5 @@
 {
 	"language" : "cpp",
 	"compile" : "make",
-	"test" : "echo 'aoisdjioas'"
+	"test" : "/a.out"
 }
